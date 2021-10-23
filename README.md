@@ -1,6 +1,6 @@
 # React Meals App
 
-Practice project from "React the Complete Guide" course on Udemy.
+Meals Cart app developed following "React: The complete guide" course. Includes Context, Hooks (useState, useEffect, useContext, useReducer, useRef), and CSS Modules.
 
 ## Available Scripts
 
