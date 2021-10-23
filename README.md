@@ -1,6 +1,6 @@
 # React Meals App
 
-Meals Cart app developed following "React: The complete guide" course. Includes Context, Hooks (useState, useEffect, useContext, useReducer, useRef), and CSS Modules.
+Meals Cart app developed following "React: The complete guide" course. Includes Context, Hooks (useState, useEffect, useContext, useReducer, useRef), Portals and CSS Modules.
 
 ## Available Scripts
 
