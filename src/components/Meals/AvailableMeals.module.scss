@@ -5,6 +5,18 @@
   animation: meals-appear 1s ease-out forwards;
 }
 
+.meals--loading {
+  font-style: oblique;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.meals--error {
+  color: red;
+  padding: 4rem 0;
+  text-align: center;
+}
+
 .meals ul {
   list-style: none;
   margin: 0;
